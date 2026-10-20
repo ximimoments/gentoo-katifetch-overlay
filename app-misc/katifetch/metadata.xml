@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>ximimoments3232@hotmail.com</email>
+        <name>Valentino</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">ximimoments/katifetch</remote-id>
+    </upstream>
+</pkgmetadata>
